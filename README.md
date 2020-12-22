@@ -6,7 +6,7 @@ Web application used for managing storage of store or warehouse.
 Allows user to acces application after providing valid login informations. If informations are invalid, user is met 
 with red prompt "Username OR password is incorrect" at the bottom of the login box.
 # Homepage
-![home](https://user-images.githubusercontent.com/67752731/102709063-459fbc00-42a7-11eb-90e4-b536c400acc8.PNG)
+![Capture](https://user-images.githubusercontent.com/67752731/102875439-14a8be00-4444-11eb-812a-3d269dd87b60.PNG)
 After loging in user is met with the application interface preceded by loading screen.
 # To Do
 - Create and connect database
